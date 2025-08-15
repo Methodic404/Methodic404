@@ -1,7 +1,7 @@
 Bom dia, boa tarde ou boa noite, sou Methodic404!
 
 🎓 Faculdade: UniRitter Campus Zona Sul (POA - RS)
-🖊️ Curso: Ciências da Computação 3° Semestre
+🖊️ Curso: Ciências da Computação 4° Semestre
 📖 Cursos Complementares: JavaScript
 
 <div align="center">
